@@ -6,7 +6,7 @@ _privateVariable
 
 // (К)омментарий
 
-/// xml summary <summary> Описание <summary>
+/// xml summary < summary > Описание < summary >
 
 Design patterns - шаблоны (к примеру Factory)
 Design principles - принципы (SOLID, DRY/DIE, YAGNI, KISS)
